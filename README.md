@@ -21,3 +21,7 @@ When I test API POST, PUT, and DELETE routes in Insomnia Core,  I am able to suc
 Assemble core folders and files and start first Git push
 NPM install, dotenvm, express, mysql2, sequelize and nodemon set up
 Set up most files with todos, seed files need to be reviewed.
+Module details were created and dependcies were set 
+Insomnia test: 'wrong route' - port confirmed listening.
+Work in progress: one to many relationships 
+Continue working on the api input
