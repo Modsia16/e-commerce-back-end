@@ -1,3 +1,12 @@
+## ORM E-commerce Back End 
+
+  ## Table of Contents
+  * [Project Story](#projectstory)
+  * [Criteria](#criteria)
+  * [Installation](#installation)
+  * [Project milestones](#projectmilestones)
+  * [Demo](#demo)
+
 ## Project story
 A manager at an internet retail company wants a back end for my e-commerce website that uses the latest technologies
 so that their company can compete with other e-commerce companies
@@ -16,12 +25,17 @@ When I open API GET routes in Insomnia Core for categories, products, or tags, t
 When I test API POST, PUT, and DELETE routes in Insomnia Core,  I am able to successfully create, update, and delete data in my database
 ```
 
-## Project minutes
+## Project milestones
 
 Assemble core folders and files and start first Git push
-NPM install, dotenvm, express, mysql2, sequelize and nodemon set up
-Set up most files with todos, seed files need to be reviewed.
-Module details were created and dependcies were set 
+npm install, dotenv, express, mysql2, sequelize and nodemon set up.
+The server was configured for sequilize
+Set up models/datatypes
 Insomnia test: 'wrong route' - port confirmed listening.
-Work in progress: one to many relationships 
-Continue working on the api input
+Set up model import relationships 
+Continue working on the api routes
+
+
+## Demo
+
+
