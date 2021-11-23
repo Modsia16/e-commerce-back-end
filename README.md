@@ -40,9 +40,10 @@ Continue to troubelshoot.
 
 ## Demo
 
-![demo1](Develop\demogif\category-demo.gif)
-
-![demo2](Develop\demogif\Start-server13.gif)
+![Init-demo](./demogif/13-01-init.gif)
+![Product Insomnia and terminal demo](./demogif/13-02-products-demo.gif)
+![Categories Insomnia and terminal demo](./demogif/13-03-categories-demo.gif)
+![Tags](./demogif/13-04-tags-demo.gif)
 
 
 
