@@ -40,11 +40,7 @@ Continue to troubelshoot.
 
 ## Demo
 
-![Init-demo](./demogif/13-01-init.gif)
-![Product Insomnia and terminal demo](./demogif/13-02-products-demo.gif)
-![Categories Insomnia and terminal demo](./demogif/13-03-categories-demo.gif)
-![Tags](./demogif/13-04-tags-demo.gif)
-
-
-
-
+![Init-demo](./Develop/demogif/13-01-init.gif)
+![Product Insomnia and terminal demo](./Develop/demogif/13-02-products-demo.gif)
+![Categories Insomnia and terminal demo](./Develop/demogif/13-03-categories-demo.gif)
+![Tags](./Develop/demogif/13-04-tags-demo.gif)
