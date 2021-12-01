@@ -39,7 +39,13 @@ Continue working on the api routes, most are working
 Continue to troubelshoot.
 
 ## Demo
+YouTube links:
+![launch] https://youtu.be/Gr5W9JKoVJU
+![category] https://youtu.be/szLXsfKodLc
+![Tags] https://youtu.be/uXf62TMnU7c
+![Products] https://youtu.be/Xi0apHMwkYE
 
+GIFs:
 ![Init-demo](./Develop/demogif/13-01-init.gif)
 ![Product Insomnia and terminal demo](./Develop/demogif/13-02-products-demo.gif)
 ![Categories Insomnia and terminal demo](./Develop/demogif/13-03-categories-demo.gif)
